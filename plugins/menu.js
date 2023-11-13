@@ -205,7 +205,7 @@ contextInfo: { externalAdReply :{ showAdAttribution: true,
                         mediaType: 2,
                         description: `⚘ ᴄʀᴇᴀᴛᴇ ᴏᴋᴛs`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ by ᴏᴋᴛᴀ`,          previewType: 0,
+                        body: `⚘ by opik`,          previewType: 0,
                         thumbnail: await (await fetch(pp)).buffer(),
                         sourceUrl: 'https://youtu.be/chataofc-'
                         
