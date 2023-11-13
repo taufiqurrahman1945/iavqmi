@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/OktaModz'
-global.syt = 'https://youtu.be/ChataOfc-'
-global.sgh = 'https://github.com/ChataOfc'
-global.sgc = 'https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk'
-global.swa = 'wa.me/6285731947500'
+global.sig = 'https://instagram.com/iavqmi'
+global.syt = 'https://www.youtube.com/@offikxyz226'
+global.sgh = 'https://github.com/taufiqurrohman1945'
+global.sgc = 'https://chat.whatsapp.com/EncAbxGE7s88JAox5L6ZD5'
+global.swa = 'wa.me/6283822205585'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
+global.pdana = '083822205585'
 global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
-global.psaweria = 'https://saweria.co/oktakc'
+global.pgopay = '083822205585'
+global.ppulsa = '083822205585'
+global.ppulsa2 = '083822205585'
+global.psaweria = 'https://saweria.co/Iavqmi'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
-global.namebot = 'Nakano Nino'
-global.nameown = 'Okta'
+global.nomorbot = '6283822205585'
+global.nomorown = '6283822205585'
+global.namebot = 'iavqmibotz'
+global.nameown = 'Opik'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta', 'true']
+  ['6283822205585', 'Opik', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -103,35 +103,35 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Nakano Ninoラ | By Okta' //Main Watermark
+global.wm = 'iavqmibotz | By Opik' //Main Watermark
 global.wm2 = 'Okta'
-global.wm3 = 'Jangan Lupa Subscribe ChataOfc-'
+global.wm3 = 'Jangan Lupa Subscribe-'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NinoBotzラ | ʙʏ ${global.nameown}`
-global.author = 'Okta' 
-global.packname = 'ChataOfc'
+global.titlebot = `iavqmibotz | ʙʏ ${global.nameown}`
+global.author = 'Opik' 
+global.packname = 'iavqmi'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'November 4 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6ab4daac226292a112540.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
+global.thumb = 'https://telegra.ph/file/d4a52f57eb877f6013b38.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/d4a52f57eb877f6013b38.jpg'
 global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
-global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
-global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
+global.giflogo2 = 'https://telegra.ph/file/d4a52f57eb877f6013b38.jpg'
+global.thumbs = ['https://telegra.ph/file/d4a52f57eb877f6013b38.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Nakano Nino Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Okta* Saya di rilis pada tanggal\n🗓 ️_22/01/2023_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.thumbBanned = 'https://telegra.ph/file/d4a52f57eb877f6013b38.jpg'
+global.thumbWarn = 'https://telegra.ph/file/d4a52f57eb877f6013b38.jpg'
+global.botintro = 'Hallo, Kenalin saya iavqmibotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Opik* Saya di rilis pada tanggal\n🗓 ️_13/11/2023_'
+global.intro = 'https://telegra.ph/file/d4a52f57eb877f6013b38.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Okta'
-global.umurowner = '16'
+global.nameowner = 'Opik'
+global.umurowner = '17'
 global.asalowner = 'Indonesia'
-global.nomorowner = 'wa.me/6285731947500'
-global.pacarowner = 'Chaca'
+global.nomorowner = 'wa.me/6283822205585'
+global.pacarowner = '-'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -380,11 +380,11 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `Okta`
+global.stickauth = `iavqmi`
 
 global.multiplier = 38 // The higher, The harder levelup
 
-/*============== EMOJI ==============*/
+/*========== EMOJI ==============*/
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
