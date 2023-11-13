@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/0590602ca31252f439fa1.jpg" alt="Nakano Nino" width="500"/>
+<img src="https://telegra.ph/file/d4a52f57eb877f6013b38.jpg" alt="Nakano Nino" width="500"/>
 
 
 </p>
